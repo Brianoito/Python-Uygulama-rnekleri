@@ -4,10 +4,10 @@ kilo=float(input("Kilo(kg):"))
 a=kilo/boy**2
 print("Beden Kitle İndeksiniz: {}".format(kilo/boy**2))
 if a <18.5 :
-    print("Zayıf")
+    print("Zayıfsınız")
 elif 18.5<=a<=25 :
-    print("Normal")
+    print("Normalsiniz")
 elif 25<a<=30 :
-    print("Fazla Kilolu")
+    print("Fazla Kilolarınız var")
 else :
-    print("obez")
+    print("Sağlığınız Tehlikede Obezsiniz")
