@@ -1,0 +1,5 @@
+print("Hipotenüs Bulma Aracı")
+print("Dik Üçgenin Kenarlarını Giriniz")
+a=int(input("kenar 1:"))
+b=int(input("kenar 2:"))
+print("Hipotenüs:{}".format((a**2+b**2)**0.5))

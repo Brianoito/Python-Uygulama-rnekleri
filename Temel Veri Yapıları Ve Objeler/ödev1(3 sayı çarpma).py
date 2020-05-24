@@ -1,0 +1,5 @@
+print("3 Sayı Giriin Çarpıp Sonucu Verelim")
+a=int(input("Sayı 1:"))
+b=int(input("Sayı 2:"))
+d=int(input("Sayı 2:"))
+print("3 sayının çarpımı {}".format(a*b*d))
